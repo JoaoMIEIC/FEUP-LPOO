@@ -1,0 +1,36 @@
+Bar.java
+ Bar
+BarObserver.java
+ BarObserver
+StringCaseChanger.java
+ StringCaseChanger
+StringTransformerGroup.java
+ StringTransformerGroup
+StringReplacer.java
+ StringReplacer
+StringDrink.java
+ StringDrink
+StringRecipe.java
+ StringRecipe
+StringInverter.java
+ StringInverter
+StringTransformer.java
+ StringTransformer
+StringBar.java
+ StringBar
+Client.java
+ Client
+OrderingStrategy.java
+ OrderingStrategy
+HumanClient.java
+ HumanClient
+ImpatientStrategy.java
+ ImpatientStrategy
+SmartStrategy.java
+ SmartStrategy
+FerengiClient.java
+ FerengiClient
+RomulanClient.java
+ RomulanClient
+AlienClient.java
+ AlienClient
